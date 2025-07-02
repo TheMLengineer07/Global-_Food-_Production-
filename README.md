@@ -1,11 +1,15 @@
 🌍 Global Food Production Trends and Analysis (1961–2023)
+
 📊 A Comprehensive Study Using Power BI
 
 📘 Introduction
- This project presents a comprehensive analysis of global food production trends from 1961 to 2023. Leveraging Power BI, we visualized key            agricultural commodities to uncover insights into production volumes, regional contributions, and long-term growth patterns. The study aims to       support strategic decision-making in the agricultural sector by highlighting critical trends and disparities in global food output.
+
+This project presents a comprehensive analysis of global food production trends from 1961 to 2023. Leveraging Power BI, we visualized key            agricultural commodities to uncover insights into production   volumes, regional contributions, and long-term growth patterns. The study aims to       support strategic decision-making in the agricultural sector by highlighting critical trends and disparities in global food output.
 
 🏗️ Technical Architecture
+
 🔄 Project Flow:
+
 Milestone 1: Data Collection & Extraction from Database
 Milestone 2: Data Preparation
 Milestone 3: Data Visualization
