@@ -11,11 +11,17 @@ This project presents a comprehensive analysis of global food production trends 
 🔄 Project Flow:
 
 Milestone 1: Data Collection & Extraction from Database
+
 Milestone 2: Data Preparation
+
 Milestone 3: Data Visualization
+
 Milestone 4: Dashboard Creation
+
 Milestone 5: Report Generation
+
 Milestone 6: Performance Testing
+
 Milestone 7: Project Demonstration & Documentation
 
 📈 Key Insights & Scenarios
