@@ -86,10 +86,15 @@ This Power BI-driven analysis provides a clear view of global food production dy
 📁 Repository Structure:
 
 📦 global-food-production-powerbi
+
 ├── 📊 PowerBI_Dashboard.pbix
+
 ├── 📁 data/
+
 │   └── food_production_1961_2023.csv
+
 ├── 📄 README.md
+
 ├── 📄 project_report.md
 └── 📄 LICENSE
 
